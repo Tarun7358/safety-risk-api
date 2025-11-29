@@ -1,8 +1,10 @@
-flask
-flask-cors
-firebase-admin
+Flask
+flask_cors
+firebase_admin
+joblib
+numpy
+pandas
+scikit-learn
 requests
 python-dotenv
-scikit-learn
-numpy
-joblib
+gunicorn
